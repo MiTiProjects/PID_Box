@@ -4,6 +4,7 @@ In particular, a PID algorithm was implemented and its performances were compare
 Both algorithms were implemented into a c++ script. The prototype oven consist of a resistor and a transistor enclosed in a metal box.
 
 ![alt text](https://github.com/MiTiProjects/PID_Box/blob/main/setup.png)
+![alt text](https://github.com/MiTiProjects/PID_Box/blob/main/Result.png)
 
 The primary emphasis was on calibrating the parameters of the PID algorithm.
 
