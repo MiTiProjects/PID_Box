@@ -6,7 +6,6 @@ Both algorithms were implemented into a c++ script. The prototype oven consists 
 ![alt text](https://github.com/MiTiProjects/PID_Box/blob/main/setup.png)
 
 The primary emphasis was on calibrating the parameters of the PID algorithm.
-![alt text](https://github.com/MiTiProjects/PID_Box/blob/main/Result.png)
 
 The dynamic of the system was also translated from the thermodynamic domain to the electrical one. 
 In particular, it is possible to represent temperature by a potential difference, thermal power by an 
