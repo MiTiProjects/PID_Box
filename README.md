@@ -1,7 +1,7 @@
 # Temperature control of a metal box - PID
 The project aim is to study various starategies to regulate the temperature of a prototype oven. 
 In particular, a PID algorithm was implemented and its performances were compared to an ON/OFF algorithm. 
-Both algorithms were implemented into a c++ script. The prototype oven consist of a resistor and a transistor enclosed in a metal box.
+Both algorithms were implemented into a c++ script. The prototype oven consists of a resistor and a transistor enclosed in a metal box.
 
 ![alt text](https://github.com/MiTiProjects/PID_Box/blob/main/setup.png)
 
